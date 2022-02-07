@@ -1,0 +1,9 @@
+https://learnopencv.com/head-pose-estimation-using-opencv-and-dlib/  - WCSandCMS.png
+https://www.youtube.com/watch?v=kmceHOsxFDI  -  TranslationandRotation.png
+https://scalar.chapman.edu/scalar/ah-331-history-of-photography-spring-2021-compendium/media/pinhole-diagram - PinholeCamera.png
+http://graphics.cs.cmu.edu/courses/15-463/2018_fall/lectures/lecture13.pdf - PinholeCamera_2.png
+https://hedivision.github.io/Pinhole.html - PinholeCamera_3.jpg
+
+
+
+
